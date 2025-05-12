@@ -1,1 +1,3 @@
-# UAdeO-Colaborar-Repo-Publico
+# Colaboracion En Repositorio Publico
+
+[@SahidHunt](https://github.com/SahidHunt)
